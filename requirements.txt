@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pyautogui
+pycaw
+comtypes
+psutil
+customtkinter
+pillow
+keyboard
+screeninfo
